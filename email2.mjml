@@ -27,12 +27,12 @@
         <mj-section background-color="white">
           <mj-column width="200px">
             <mj-social color="#000000" font-size="10px" line-height="1.6" font-family="Alegreya Sans" icon-size="20%" mode="horizontal">
-            <mj-social-element href="url" src="https://raw.githubusercontent.com/OctopusSlumps/Email/feb9/email.png">myemail@mail.com</mj-social-element>
+            <mj-social-element href="url" src="https://raw.githubusercontent.com/OctopusSlumps/Email/feb9/email2.png">myemail@mail.com</mj-social-element>
           </mj-social>
           </mj-column>
           <mj-column width="200px">
             <mj-social color="#000000" font-size="10px" line-height="1.6" font-family="Alegreya Sans" icon-size="20%" mode="horizontal">
-            <mj-social-element href="url" src="https://raw.githubusercontent.com/OctopusSlumps/Email/feb9/phone.png">+1 123 456 7890</mj-social-element>
+            <mj-social-element href="url" src="https://raw.githubusercontent.com/OctopusSlumps/Email/feb9/phone2.png">+1 123 456 7890</mj-social-element>
           </mj-social>
           </mj-column>
 

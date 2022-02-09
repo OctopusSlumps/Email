@@ -6,9 +6,12 @@
     href="https://fonts.googleapis.com/css2?family=Alegreya:wght@400" />
     <mj-font name="Alegreya Sans"
     href="https://fonts.googleapis.com/css2?family=Alegreya+Sans:wght@400" />
+    <mj-raw>
+      <meta name="color-scheme" content="only">
+    </mj-raw>
   </mj-head>
 
-    <mj-body>
+    <mj-body background-color="white">
 
       <mj-section background-color="linear-gradient(90deg,rgba(69,54,82,1) 0%, rgba(69,54,82,1) 35%, rgba(50,40,59,1) 100%)">
 
@@ -26,13 +29,13 @@
 
         <mj-section background-color="linear-gradient(90deg,rgba(69,54,82,1) 0%, rgba(69,54,82,1) 35%, rgba(50,40,59,1) 100%)">
           <mj-column width="200px">
-            <mj-social color="#ffffff" font-size="10px" line-height="1.6" font-family="Alegreya Sans" icon-size="25%" mode="horizontal">
-            <mj-social-element href="url" src="https://www.pngplay.com/wp-content/uploads/6/Email-Logo-Background-PNG-Image.png">myemail@mail.com</mj-social-element>
+            <mj-social color="#ffffff" font-size="10px" line-height="1.6" font-family="Alegreya Sans" icon-size="20%" mode="horizontal">
+            <mj-social-element href="url" src="https://raw.githubusercontent.com/OctopusSlumps/Email/feb9/email.png">myemail@mail.com</mj-social-element>
           </mj-social>
           </mj-column>
           <mj-column width="200px">
-            <mj-social color="#ffffff" font-size="10px" line-height="1.6" font-family="Alegreya Sans" icon-size="25%" mode="horizontal">
-            <mj-social-element href="url" src="https://www.pngplay.com/wp-content/uploads/4/Phone-PNG-HD-Quality.png">+1 123 456 7890</mj-social-element>
+            <mj-social color="#ffffff" font-size="10px" line-height="1.6" font-family="Alegreya Sans" icon-size="20%" mode="horizontal">
+            <mj-social-element href="url" src="https://raw.githubusercontent.com/OctopusSlumps/Email/feb9/phone.png">+1 123 456 7890</mj-social-element>
           </mj-social>
           </mj-column>
 
