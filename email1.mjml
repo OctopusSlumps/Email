@@ -1,0 +1,41 @@
+<!-- mjml email1.mjml -o output.html -->
+<mjml>
+
+  <mj-head>
+    <mj-font name="Alegreya"
+    href="https://fonts.googleapis.com/css2?family=Alegreya:wght@400" />
+    <mj-font name="Alegreya Sans"
+    href="https://fonts.googleapis.com/css2?family=Alegreya+Sans:wght@400" />
+  </mj-head>
+
+    <mj-body>
+
+      <mj-section background-color="linear-gradient(90deg,rgba(69,54,82,1) 0%, rgba(69,54,82,1) 35%, rgba(50,40,59,1) 100%)">
+
+        <mj-column width="400px">
+
+        <mj-text font-size="25px" font-family="Alegreya" color="#ffffff">Dear
+          Mr. Nescio,</mj-text>
+
+          <mj-text color="#ffffff" font-size="16px" line-height="1.6" font-family="Alegreya Sans"> Lorem ipsum dolor sit amet, consectetur
+          adipiscing elit. Proin rutrum enim eget magna efficitur, eu semper
+          augue semper. Aliquam erat volutpat. Cras id dui lectus. Vestibulum
+          sed finibus lectus, sit amet suscipit nibh. Proin nec commodo purus.
+          Sed eget nulla elit. Nulla aliquet mollis faucibus. </mj-text>
+        </mj-column> </mj-section>
+
+        <mj-section background-color="linear-gradient(90deg,rgba(69,54,82,1) 0%, rgba(69,54,82,1) 35%, rgba(50,40,59,1) 100%)">
+          <mj-column width="200px">
+            <mj-social color="#ffffff" font-size="10px" line-height="1.6" font-family="Alegreya Sans" icon-size="25%" mode="horizontal">
+            <mj-social-element href="url" src="https://www.pngplay.com/wp-content/uploads/6/Email-Logo-Background-PNG-Image.png">myemail@mail.com</mj-social-element>
+          </mj-social>
+          </mj-column>
+          <mj-column width="200px">
+            <mj-social color="#ffffff" font-size="10px" line-height="1.6" font-family="Alegreya Sans" icon-size="25%" mode="horizontal">
+            <mj-social-element href="url" src="https://www.pngplay.com/wp-content/uploads/4/Phone-PNG-HD-Quality.png">+1 123 456 7890</mj-social-element>
+          </mj-social>
+          </mj-column>
+
+      </mj-section>
+
+    </mj-body> </mjml>
